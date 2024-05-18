@@ -1,3 +1,3 @@
 # Movie-Recommendation-System-
-Movie Recommendation System using Numpy , Matplotlib , Pandas  and Cosine Similarity <b>
+Movie Recommendation System using Numpy , Matplotlib , Pandas  and Cosine Similarity <br>
 Based on Machine Learning Concepts
